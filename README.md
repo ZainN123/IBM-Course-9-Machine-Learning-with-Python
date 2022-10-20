@@ -23,3 +23,6 @@ In this module, you will learn about recommender systems. First, you will get in
 Week 6 - Final Project
 
 In this module, you will do a project based of what you have learned so far. You will submit a report of your project for peer evaluation.
+
+Order of Labs
+
