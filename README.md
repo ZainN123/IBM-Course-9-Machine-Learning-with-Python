@@ -26,16 +26,16 @@ In this module, you will do a project based of what you have learned so far. You
 
 Order of Labs
 
-Reg-Simple-Linear-Regression
-Reg-Mulitple-Linear-Regression-Co2
-Reg-Polynomial-Regression-Co2
-Reg-NoneLinearRegression
-Clas-K-Nearest-neighbors-CustCat
-Clas-Decision-Trees-drug
-Clas-Logistic-Reg-churn
-Clas-SVM-cancer
-Clus-K-Means-Customer-Seg
-Clus-Hierarchical-Cars
-Clus-DBSCN-weather
-RecSys-Content-Based-movies
-RecSys-Collaborative-Filtering-movies
+1) Reg-Simple-Linear-Regression
+2) Reg-Mulitple-Linear-Regression-Co2
+3) Reg-Polynomial-Regression-Co2
+4) Reg-NoneLinearRegression
+5) Clas-K-Nearest-neighbors-CustCat
+6) Clas-Decision-Trees-drug
+7) Clas-Logistic-Reg-churn
+8) Clas-SVM-cancer
+9) Clus-K-Means-Customer-Seg
+10) Clus-Hierarchical-Cars
+11) Clus-DBSCN-weather
+12) RecSys-Content-Based-movies
+13) RecSys-Collaborative-Filtering-movies
